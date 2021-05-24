@@ -8,9 +8,9 @@ Dependent software and packages:
 
 2, python3 packages: ephem,matplotlib
 
-sudo pip3 install ephem matplolib
+    sudo pip3 install ephem matplotlib
 
-3, objects.txt:
+3, objects.txt format:
 
 name    RA(hh:mm:ss)    DEC(dd:mm:ss) 
 
