@@ -2,7 +2,7 @@ This python will plot the curves of stars' altitudes over a night at an observat
 
 The default observatory: Lijiang Observatory
 
-Dependent software and packages:
+(1) Dependent software and packages:
 
 1, Python3
 
@@ -14,8 +14,8 @@ Dependent software and packages:
 
 name    RA(hh:mm:ss)    DEC(dd:mm:ss) 
 
-running the program:
+(2) Running the program:
 
-1, ./staralt ---- will plot the curve of star altitude tonight
+1, ./staralt.py ---- will plot the curve of star altitude tonight
 
-2, ./staralt 2021 05 23 ---- will plot the curve of star altitude on 2021-05-23
+2, ./staralt.py 2021 05 23 ---- will plot the curve of star altitude on 2021-05-23
